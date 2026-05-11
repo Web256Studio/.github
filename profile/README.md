@@ -4,11 +4,13 @@ These organizations are primarily used to structure projects by domain and respo
 
 I prefer treating each system as an independent project rather than combining unrelated concerns into a single repository or profile structure. Over time, this organization model also created space for conversations with developers, recruiters, founders, and people exploring specific domains, early ideas who may be interested in discussing, building, or collaborating.
 
-## What
+## Purpose
 
 *Web256Studio* hosts websites built using Astro and Next.js. The organization focuses on personal websites, commercial landing pages, portfolio systems, and structured presentation layers designed around performance and long-term maintainability.
 
 > Projects here may be static by nature, but they remain under continuous refinement to ensure the structure, wording, and tooling continue to communicate their purpose clearly and effectively.
+
+[![Tools](https://skillicons.dev/icons?i=html,css,js,astro,next,netlify,aws)](https://skillicons.dev)
 
 ## Main Focus
 
